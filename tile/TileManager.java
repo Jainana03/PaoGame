@@ -74,7 +74,7 @@ public class TileManager {
         }
     }
     public void draw(Graphics2D g2){
-        //per line :15
+        //per line :16
         int worldCol = 0;
         int worldRow = 0;
         
